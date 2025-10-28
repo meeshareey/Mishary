@@ -1,0 +1,7 @@
+{
+  "name": "Meeshareey",
+  "description": "An intelligent chatbot powered by Gemini that answers your questions about cybersecurity threats, online safety, and digital security best practices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
